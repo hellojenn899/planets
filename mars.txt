@@ -1,7 +1,9 @@
-
 Mars 
 
 Will we live on mars one day? 
+<<<<<<< HEAD
 Cold and dry, but eerything is my favorite color
 The two mons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
+=======
+>>>>>>> parent of bbd7fc8... Add concerns about effects of Mars' moons on Wolfman
